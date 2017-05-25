@@ -1,6 +1,6 @@
 let React = require('react');
 let ReactDOM = require('react-dom');
-require('./style.css');
+require('./index.css');
 
 // components are concerned w/ 3 things: state, lifecycle event, UI
 
